@@ -1,11 +1,11 @@
 # Clone Army
 
-## John Carmichael
+## Pedro Del Rosario
 
-**Rank:** Captain
+**Rank:** General
 
-**Designation:** CT-2658
+**Designation:** CT-24
 
-**Call Sign:** JC
+**Call Sign:** PD
 
 ----
